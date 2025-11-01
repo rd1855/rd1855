@@ -21,11 +21,11 @@
 </p>
 
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Hi-👋+I'm+Rohit+Desai-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Aspiring-DevOps+Engineer-orange?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Skills-Python|Docker|AWS-green?style=for-the-badge&logo=github" />
-</p>  -->
+</p> 
 
 ---
 
