@@ -4,9 +4,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rohit+Desai;Aspiring+DevOps+Engineer+%F0%9F%9A%80;Automation+%7C+Cloud+%7C+CI%2FCD;Python+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <p align="center">
   <a href="https://linkedin.com/in/rohit-desai1855"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -95,13 +93,35 @@ me.say_hi()
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rd1855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&text_color=FFFFFF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rd1855&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" />
+<table>
+<tr>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd1855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rd1855&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=rd1855&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
 
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rd1855&theme=radical&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd1855&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+
+</td>
+<td width="50%">
+
+### 📈 Contribution Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=rd1855&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF)
+
+**Total Contributions:** ![](https://img.shields.io/badge/dynamic/json?color=00C7FF&label=Total&query=$.totalContributions&url=https://github-contributions-api.deno.dev/rd1855.json&style=for-the-badge)
+
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -110,7 +130,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies" />
 
 </div>
 
@@ -119,57 +139,84 @@ me.say_hi()
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rd1855&repo=90DaysOfDevOps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF)](https://github.com/rd1855/90DaysOfDevOps)
+### 🚀 90 Days of DevOps Challenge
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rd1855&repo=90DaysOfDevOps&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&show_owner=true)](https://github.com/rd1855/90DaysOfDevOps)
 
-> 💡 **Tip:** Replace `90DaysOfDevOps` with your actual repository name if different
+**Journey through DevOps fundamentals**
+- 📚 Learning Docker, Kubernetes, CI/CD
+- 🛠️ Hands-on projects and automation
+- 📝 Daily progress documentation
 
+</td>
+<td width="50%">
+
+### 💡 Your Next Project
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=github&repo=github&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF)](https://github.com/rd1855)
+
+**Pin your best work here!**
+- ⭐ Replace with your actual repo
+- 🔧 Showcase your DevOps skills
+- 🚀 Inspire others
+
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b093-32ed1576e86a.png" width="30" /> Contribution Graph
+## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b093-32ed1576e86a.png" width="30" /> Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake.svg">
-</picture>
+### 📊 Contribution Graph
 
-> **Note:** To enable the snake animation, you need to set up a GitHub Action. See instructions below! 👇
+[![Rohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rd1855&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7FF&line=00C7FF&point=FFFFFF&area=true&area_color=00C7FF)](https://github.com/rd1855)
 
-</div>
+### 🐍 Contribution Snake Animation
+
+![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+> **Want your own snake?** Create `.github/workflows/snake.yml`:
 
 <details>
-<summary>🐍 Click to see Snake Animation Setup Instructions</summary>
-
-### Setting up the Snake Animation:
-
-1. Create a new file: `.github/workflows/snake.yml`
-2. Add this code:
+<summary>📝 Click for Snake Setup Code</summary>
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+    - main
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: rd1855
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -177,48 +224,83 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit and push the file
-4. The snake will be generated automatically!
+Then update the image URL to: `https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake-dark.svg`
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c8326-1a0e-4f4c-9ef5-d550d854fe33.png" width="30" /> Current Learning Path
-
-```mermaid
-graph LR
-    A[DevOps Journey] --> B[Cloud Platforms]
-    A --> C[Containerization]
-    A --> D[CI/CD Pipelines]
-    A --> E[IaC Tools]
-    B --> B1[AWS]
-    B --> B2[Azure]
-    C --> C1[Docker]
-    C --> C2[Kubernetes]
-    D --> D1[Jenkins]
-    D --> D2[GitHub Actions]
-    E --> E1[Terraform]
-    E --> E2[Ansible]
-    
-    style A fill:#00C7FF
-    style B fill:#FF6B6B
-    style C fill:#4ECDC4
-    style D fill:#95E1D3
-    style E fill:#F38181
-```
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" /> Support My Work
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c8326-1a0e-4f4c-9ef5-d550d854fe33.png" width="30" /> Current Learning Roadmap
 
 <div align="center">
 
-If you find my work helpful, consider buying me a coffee! ☕
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00C7FF', 'edgeLabelBackground':'#0D1117', 'tertiaryColor':'#1a1e22'}}}%%
+graph TB
+    A[🚀 DevOps Journey] --> B[☁️ Cloud Platforms]
+    A --> C[📦 Containerization]
+    A --> D[🔄 CI/CD Pipelines]
+    A --> E[🏗️ Infrastructure as Code]
+    A --> F[📊 Monitoring & Logging]
+    
+    B --> B1[AWS]
+    B --> B2[Azure]
+    
+    C --> C1[Docker]
+    C --> C2[Kubernetes]
+    
+    D --> D1[Jenkins]
+    D --> D2[GitHub Actions]
+    D --> D3[GitLab CI]
+    
+    E --> E1[Terraform]
+    E --> E2[Ansible]
+    
+    F --> F1[Prometheus]
+    F --> F2[Grafana]
+    
+    style A fill:#00C7FF,stroke:#00C7FF,color:#000
+    style B fill:#FF6B6B,stroke:#FF6B6B,color:#000
+    style C fill:#4ECDC4,stroke:#4ECDC4,color:#000
+    style D fill:#95E1D3,stroke:#95E1D3,color:#000
+    style E fill:#F38181,stroke:#F38181,color:#000
+    style F fill:#A8E6CF,stroke:#A8E6CF,color:#000
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Latest DevOps Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/rd1855/90DaysOfDevOps/pull/1) in [rd1855/90DaysOfDevOps](https://github.com/rd1855/90DaysOfDevOps)
+2. 💪 Opened PR [#1](https://github.com/rd1855/90DaysOfDevOps/pull/1) in [rd1855/90DaysOfDevOps](https://github.com/rd1855/90DaysOfDevOps)
+3. 🗣 Commented on [#1](https://github.com/rd1855/90DaysOfDevOps/issues/1) in [rd1855/90DaysOfDevOps](https://github.com/rd1855/90DaysOfDevOps)
+<!--END_SECTION:activity-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" /> Support My Journey
+
+<div align="center">
+
+**If you find my DevOps journey inspiring, consider buying me a coffee!** ☕
 
 <a href="https://www.buymeacoffee.com/rd1855" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee">
 </a>
+
+<br><br>
+
+**Or connect with me on:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-desai1855)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rd1855)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rdesai1855@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rd1855)
 
 </div>
 
@@ -232,10 +314,6 @@ If you find my work helpful, consider buying me a coffee! ☕
 
 **DevOps is not a job — it's a culture** ⚙️
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-**Thanks for visiting! Happy Coding! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
