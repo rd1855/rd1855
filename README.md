@@ -1,26 +1,25 @@
-<!-- 🌊 Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:0077FF&height=180&section=header&text=Rohit%20Desai&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<!-- 🌊 Premium Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C7FF&height=190&section=header&text=Rohit%20Desai&fontSize=44&fontColor=00C7FF&animation=fadeIn&fontAlignY=35" />
 
 <!-- ⌨️ Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Rohit+Desai;Aspiring+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Build.+Automate.+Deploy." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Desai;DevOps+Engineer+in+the+Making;Cloud+%7C+CI%2FCD+%7C+Automation+%7C+IaC;Build.+Automate.+Scale." />
 </h1>
 
 <h3 align="center">
-  🚀 DevOps Engineer in the Making
+  ⚙️ Turning manual processes into automated pipelines
 </h3>
 
 <p align="center">
-  Passionate about <strong>Cloud, Automation, CI/CD, and Python</strong><br>
-  Learning <strong>AWS, Docker, Jenkins, Kubernetes, Linux</strong><br>
-  Building scalable & automated systems.
+  <strong>Cloud • Automation • CI/CD • Infrastructure as Code</strong><br>
+  Focused on building scalable, reliable, and secure DevOps systems.
 </p>
 
-<!-- ⚡ Badges -->
+<!-- 🔥 DevOps Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Aspiring%20DevOps%20Engineer-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-AWS%20|%20Docker%20|%20K8s-orange?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Mindset-Automate%20Everything-success?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Role-DevOps%20Engineer%20(Aspiring)-00C7FF?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20Jenkins-success?style=for-the-badge" />
 </p>
 
 ---
@@ -35,37 +34,37 @@
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-🚀 **Aspiring DevOps Engineer** focused on automation & scalability  
-🎓 Pursuing **B.E. in Artificial Intelligence & Machine Learning**  
-⚙️ Interested in **CI/CD | Cloud | Infrastructure as Code | Monitoring**  
-🔭 Working on **90DaysOfDevOps Challenge**  
-🌱 Learning by **doing, breaking, fixing & automating systems**  
+🚀 **Aspiring DevOps Engineer** with hands-on experience in automation & cloud  
+🎓 B.E. in **Artificial Intelligence & Machine Learning**  
+⚙️ Strong interest in **CI/CD, Cloud Infrastructure, IaC & Monitoring**  
+🔭 Actively working on **real-world DevOps projects & pipelines**  
+🌱 Learning by **building → breaking → fixing → automating**
 
 📫 **Email:** `rdesai1855@gmail.com`  
-⚡ *Manual work is a bug — automation is the fix.*
+⚡ **Philosophy:** *If it’s repeatable, it should be automated.*
 
 ---
 
-## 🛠️ Tech Arsenal  
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,bash,git,githubactions,nginx,terraform" />
 
-### 💻 Development
+### 💻 Programming & Web
 <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,mysql,html,css" />
 
-### 🧰 Tools
+### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -77,13 +76,13 @@
 
 ---
 
-## 📈 Contribution Activity Graph  
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rd1855&bg_color=0D1117&color=00C7FF&line=00C7FF&point=FFFFFF&hide_border=true" />
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 Achievements
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=onestar&no-frame=true&row=1&column=6" />
@@ -91,7 +90,7 @@
 
 ---
 
-## 🐍 3D Contribution Snake  
+## 🐍 3D Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -99,22 +98,22 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <div align="center">
-<a href="https://linkedin.com/in/rohit-desai1855"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://github.com/rd1855"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="mailto:rdesai1855@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://linkedin.com/in/rohit-desai1855"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
+<a href="https://github.com/rd1855"><img src="https://skillicons.dev/icons?i=github" height="42"/></a>
+<a href="mailto:rdesai1855@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="42"/></a>
 </div>
 
 ---
 
 <div align="center">
 
-### 🧭 *“Automate. Optimize. Deploy. Repeat.”*  
-⚙️ DevOps is not a job — it’s a culture.
+### 🧭 *Automate. Optimize. Deploy. Scale.*
+⚙️ DevOps is not a role — it’s an engineering mindset.
 
 </div>
 
-<!-- 🌊 Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C7FF&height=120&section=footer" />
+<!-- 🌊 Premium Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:0D1117&height=120&section=footer" />
