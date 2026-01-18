@@ -97,10 +97,10 @@ me.say_hi()
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rd1855&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rd1855&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rd1855&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd1855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rd1855&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7FF&line=00C7FF&point=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rd1855&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rd1855&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=FFFFFF" />
 
 </div>
 
@@ -110,7 +110,7 @@ me.say_hi()
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rd1855&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=algolia&no-frame=true&no-bg=false&row=1&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -120,7 +120,9 @@ me.say_hi()
 
 <div align="center">
 
-[![90DaysOfDevOps](https://github-readme-stats.vercel.app/api/pin/?username=rd1855&repo=90DaysOfDevOps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF)](https://github.com/rd1855/90DaysOfDevOps)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rd1855&repo=90DaysOfDevOps&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7FF&icon_color=00C7FF)](https://github.com/rd1855/90DaysOfDevOps)
+
+> 💡 **Tip:** Replace `90DaysOfDevOps` with your actual repository name if different
 
 </div>
 
@@ -129,10 +131,56 @@ me.say_hi()
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41fb-b093-32ed1576e86a.png" width="30" /> Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake.svg">
+</picture>
+
+> **Note:** To enable the snake animation, you need to set up a GitHub Action. See instructions below! 👇
 
 </div>
+
+<details>
+<summary>🐍 Click to see Snake Animation Setup Instructions</summary>
+
+### Setting up the Snake Animation:
+
+1. Create a new file: `.github/workflows/snake.yml`
+2. Add this code:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rd1855
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit and push the file
+4. The snake will be generated automatically!
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
