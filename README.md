@@ -3,7 +3,7 @@
 
 <!-- ⌨️ Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Desai;DevOps+Engineer+in+the+Making;Cloud+%7C+CI%2FCD+%7C+Automation+%7C+IaC;Build.+Automate.+Scale." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Desai;Aspiring+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation+%7C+IaC;Build.+Automate.+Scale." />
 </h1>
 
 <h3 align="center">
@@ -25,11 +25,9 @@
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=rd1855&style=for-the-badge&color=00C7FF" />
 <img src="https://img.shields.io/github/followers/rd1855?style=for-the-badge&color=00C7FF" />
 <img src="https://img.shields.io/github/stars/rd1855?style=for-the-badge&color=00C7FF" />
-
 </div>
 
 ---
@@ -38,7 +36,7 @@
 
 🚀 **Aspiring DevOps Engineer** with hands-on experience in automation & cloud  
 🎓 B.E. in **Artificial Intelligence & Machine Learning**  
-⚙️ Strong interest in **CI/CD, Cloud Infrastructure, IaC & Monitoring**  
+⚙️ Focused on **CI/CD, Cloud Infrastructure, Linux, Automation & IaC**  
 🔭 Actively working on **real-world DevOps projects & pipelines**  
 🌱 Learning by **building → breaking → fixing → automating**
 
@@ -54,8 +52,8 @@
 ### ☁️ DevOps & Cloud
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,bash,git,githubactions,nginx,terraform" />
 
-### 💻 Programming & Web
-<img src="https://skillicons.dev/icons?i=python,java,js,nodejs,react,mongodb,mysql,html,css" />
+### 💻 Programming & Scripting
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman" />
