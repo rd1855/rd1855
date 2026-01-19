@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,linux,bash,git,githubactions,nginx,terraform" />
 
 ### 💻 Programming & Scripting
-<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://skillicons.dev/icons?i=python,bash" />
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman" />
