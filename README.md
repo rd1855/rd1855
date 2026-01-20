@@ -42,14 +42,12 @@
 
 ---
 
-## 🏆 Achievements (AUTO)
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=onestar&no-frame=true&row=1"/>
-</div>
+## 🏆 Achievements
+<img src="https://raw.githubusercontent.com/rd1855/rd1855/main/metrics-achievements.svg" />
 
 ---
 
-## 🐍 Contribution Snake (AUTO)
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/rd1855/rd1855/output/github-contribution-grid-snake-dark.svg"/>
 </div>
