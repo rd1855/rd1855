@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Stats (Auto Updated)
+## 📊 GitHub Stats 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rd1855&show_icons=true&theme=react&hide_border=true"/>
   <img height="165" src="https://streak-stats.demolab.com?user=rd1855&theme=react&hide_border=true"/>
