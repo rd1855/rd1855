@@ -42,8 +42,22 @@
 
 ---
 
-## 🏆 Achievements
-<img src="https://raw.githubusercontent.com/rd1855/rd1855/main/metrics-achievements.svg" />
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rd1855
+    &theme=onestar
+    &no-frame=true
+    &margin-w=15
+    &margin-h=15
+    &row=1"
+  />
+</div>
+
+<p align="center">
+  🏅 *Achievements unlock automatically as my GitHub activity grows*
+</p>
 
 ---
 
