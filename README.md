@@ -45,14 +45,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rd1855
-    &theme=onestar
-    &no-frame=true
-    &margin-w=15
-    &margin-h=15
-    &row=1"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=onestar&no-frame=true"/>
 </div>
 
 <p align="center">
