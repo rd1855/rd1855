@@ -43,9 +43,8 @@
 ---
 
 ## 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rd1855&theme=onestar&no-frame=true&row=1" />
+  <img src="https://raw.githubusercontent.com/rd1855/rd1855/main/metrics-achievements.svg" />
 </div>
 
 
