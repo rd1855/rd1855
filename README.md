@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# ⚡ DEVOPS ENGINEER DASHBOARD
+# ⚡ DEVOPS ENGINEER
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Build+%E2%9A%A1+Automate+%E2%9A%A1+Scale;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipelines+%7C+Linux+Automation;Turning+Ideas+Into+Production+Systems"/>
 
