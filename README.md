@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ⚡ DEVOPS ENGINEER
+# DEVOPS ENGINEER
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Build+%E2%9A%A1+Automate+%E2%9A%A1+Monitor;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+Observability+%7C+CI%2FCD;Turning+Ideas+Into+Production+Systems"/>
 
